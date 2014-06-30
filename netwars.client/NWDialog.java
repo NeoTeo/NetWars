@@ -1,3 +1,15 @@
+/*
+  An exploration of the use of "dead reckoning" for multiplayer games in the form of
+  an MMO Shootem up inspired by Asteroids and Gravity Wars.
+  This is the client application source.
+  Teo Sartori, 1996-97
+
+  Update:
+  Added new focus methods to get the app working again after the Java Dialog event stuff hard
+  been deprecated and disabled.
+  Teo 2014
+*/
+
 import java.awt.* ;
 import java.awt.event.*;
 
