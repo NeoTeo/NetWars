@@ -56,7 +56,7 @@ public class PlayerShip extends SpaceShip{
 		// because they are converted right back to screen coords in display. 
 		// Since all other entities pass their pos to display in screen coords
 		// screen will need to convert those and is thus more general.
-		display(g,heading,midx*factor,midy*factor,Color.blue) ;
+		display(g,heading,midx*factor,midy*factor,Color.yellow) ;
 	}
 
 	/**
